@@ -1,0 +1,353 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.livelifefree-book.com" resolutions="1x" timestamp="1610035370892">
+  <folder name="css">
+    <file name="site_global.css" crc="160342060"/>
+    <file name="master_a-master.css" crc="383903402" ref="store:index:returns-and-refunds:media:speaker:privacy"/>
+    <file name="store.css" crc="415860497" ref="store"/>
+    <file name="index.css" crc="476510656" ref="index"/>
+    <file name="returns-and-refunds.css" crc="4291986537" ref="returns-and-refunds"/>
+    <file name="media.css" crc="4115133934" ref="media"/>
+    <file name="speaker.css" crc="3844323783" ref="speaker"/>
+    <file name="privacy.css" crc="3860867427" ref="privacy"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>speaker:phone>privacy:phone>store:phone>media:phone>returns-and-refunds:index:speaker:privacy:store:media:returns-and-refunds"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>speaker:phone>privacy:phone>store:phone>media:phone>returns-and-refunds:index:speaker:privacy:store:media:returns-and-refunds"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>speaker:phone>privacy:phone>store:phone>media:phone>returns-and-refunds:index:speaker:privacy:store:media:returns-and-refunds"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>speaker:phone>privacy:phone>store:phone>media:phone>returns-and-refunds:index:speaker:privacy:store:media:returns-and-refunds"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index:phone>speaker:phone>privacy:phone>store:phone>media:phone>returns-and-refunds:index:speaker:privacy:store:media:returns-and-refunds"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>index:phone>speaker:phone>privacy:phone>store:phone>media:phone>returns-and-refunds:index:speaker"/>
+    <file name="musewpdisclosure.js" crc="4294234138" ref="phone>index:phone>speaker:phone>privacy:phone>store:phone>media:phone>returns-and-refunds"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:phone>speaker:phone>privacy:phone>store:phone>media:phone>returns-and-refunds:index:speaker:privacy:store:media:returns-and-refunds"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>speaker:phone>privacy:phone>store:phone>media:phone>returns-and-refunds:index:speaker:privacy:store:media:returns-and-refunds"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="phone>index:phone>speaker:phone>privacy:phone>store:phone>media:phone>returns-and-refunds:index:speaker:privacy:store:media:returns-and-refunds"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>speaker:phone>privacy:phone>store:phone>media:phone>returns-and-refunds:index:speaker:privacy:store:media:returns-and-refunds"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>speaker:phone>privacy:phone>store:phone>media:phone>returns-and-refunds:index:speaker:privacy:store:media:returns-and-refunds"/>
+    <file name="form_check.php" crc="4108222811" ref="phone>speaker"/>
+    <file name="form_throttle.php" crc="503802655" ref="phone>speaker"/>
+    <file name="form_process.php" crc="260214869" ref="phone>speaker"/>
+    <file name="form-u6126.php" crc="193523950" ref="phone>speaker"/>
+    <file name="form-u5427.php" crc="3793039093" ref="speaker"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="4067594552" ref="phone>index"/>
+    <file name="102818 new footer image test static-crop-u5319.png" crc="462613088" seo="true" ref="phone>index:phone>speaker:phone>privacy:phone>store:phone>media:phone>returns-and-refunds">
+      <caption webpage="index" alt="Mountain Top Ministries"/>
+      <caption webpage="store" alt="Mountain Top Ministries"/>
+      <caption webpage="returns-and-refunds" alt="Mountain Top Ministries"/>
+      <caption webpage="privacy" alt="Mountain Top Ministries"/>
+      <caption webpage="speaker" alt="Mountain Top Ministries"/>
+      <caption webpage="media" alt="Mountain Top Ministries"/>
+    </file>
+    <file name="1-07-210830-sale-price-2020.jpg" crc="4210655403" seo="true" ref="phone>index:phone>store:index:store">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="store" alt=""/>
+    </file>
+    <file name="102218c cut renee book panarama copy464x179.png" crc="321070365" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Pictures of Renée Branson, Live Life Free!"/>
+    </file>
+    <file name="91318c 1600x comp 1 copy copy.png" crc="4084015390" seo="true" ref="phone>index:phone>privacy:phone>returns-and-refunds:index:privacy:returns-and-refunds">
+      <caption webpage="index" alt="mountainside image"/>
+      <caption webpage="index" alt="mountainside background"/>
+      <caption webpage="returns-and-refunds" alt=""/>
+      <caption webpage="returns-and-refunds" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+    </file>
+    <file name="90318 mtm straight122x99.png" crc="4195865675" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Mountain Top Ministries"/>
+    </file>
+    <file name="92818 live life free 3d cover large.png" crc="3815255119" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt="Live Life Free book "/>
+      <caption webpage="index" alt="Live Life Free! book "/>
+    </file>
+    <file name="11719 winplay available-u10063-fr.png" crc="466732577" ref="phone>index"/>
+    <file name="11719 winplay available-u10063-r-fr.png" crc="3968784304" ref="phone>index"/>
+    <file name="112018b available now at amazon-u9714-fr.png" crc="404233869" ref="phone>index"/>
+    <file name="112018b available now at amazon-u9714-r-fr.png" crc="3971894570" ref="phone>index"/>
+    <file name="112018b available now at amazon-u9714-m-fr.png" crc="458581040" ref="phone>index"/>
+    <file name="52318 psb facebook button-u9951-fr.png" crc="214325871" ref="phone>index"/>
+    <file name="52318 psb facebook button-u9951-r-fr.png" crc="530043621" ref="phone>index"/>
+    <file name="91918 mountain boy shutterstock_111326774-crop-u7889.jpg" crc="3780997303" seo="true" ref="phone>index">
+      <caption webpage="index" alt="mountain view"/>
+    </file>
+    <file name="111318 endorsement 1312x157.jpg" crc="4043850717" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>media:index:media"/>
+    <file name="111318 endorsement 2340x172.jpg" crc="53804165" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 3340x172.jpg" crc="451099845" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 4340x172.jpg" crc="403233608" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 5340x172.jpg" crc="4122294362" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 6340x172.jpg" crc="218325536" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 7340x172.jpg" crc="4083912092" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 8340x172.jpg" crc="4052098529" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 9340x172.jpg" crc="25498342" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 10340x172.jpg" crc="377137556" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 11340x172.jpg" crc="4280705342" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+    <file name="102818 mountain renee backdrop.png" crc="4045343833" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="80318a live life free author-1--1-229x317.png" crc="3842671608" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Renée Branson author pic"/>
+    </file>
+    <file name="102818 91918 91018 1600x comp 1.png" crc="377316804" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="90318 mtm straight195x157.png" crc="354444967" seo="true" ref="phone>index">
+      <caption webpage="index" alt="Mountain Top Ministries logo"/>
+    </file>
+    <file name="11819 click here new day-layer 7.jpg" crc="239185091" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11819 click here new day.jpg" crc="283823998" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="102818 new footer image test static.png" crc="4144658075" seo="true" ref="phone>index:phone>speaker:phone>privacy:phone>store:phone>media:phone>returns-and-refunds:index:speaker:privacy:store:media:returns-and-refunds">
+      <caption webpage="index" alt="Mountain Top Ministries footer"/>
+      <caption webpage="index" alt="Mountain Top Ministries footer"/>
+      <caption webpage="store" alt="Mountain Top Ministries footer"/>
+      <caption webpage="store" alt="Mountain Top Ministries footer"/>
+      <caption webpage="returns-and-refunds" alt="Mountain Top Ministries footer"/>
+      <caption webpage="returns-and-refunds" alt="Mountain Top Ministries footer"/>
+      <caption webpage="privacy" alt="Mountain Top Ministries footer"/>
+      <caption webpage="privacy" alt="Mountain Top Ministries footer"/>
+      <caption webpage="speaker" alt="Mountain Top Ministries footer"/>
+      <caption webpage="speaker" alt="Mountain Top Ministries footer"/>
+      <caption webpage="media" alt="Mountain Top Ministries footer"/>
+      <caption webpage="media" alt="Mountain Top Ministries footer"/>
+    </file>
+    <file name="52318 psb instagram button-instagram low.png" crc="4221897582" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="52318 psb instagram button-instagram low copy.png" crc="22994502" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="52318 psb twitter button-twitter base.png" crc="4059782876" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="52318 psb twitter button-twitter float.png" crc="4294219714" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="112218a linked in-layer 1.png" crc="4211930240" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="112218a linked in-layer 1 copy.png" crc="436476204" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="52318 psb facebook button-vector smart object.png" crc="3818417753" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="52318 psb facebook button-vector smart object copy.png" crc="218178025" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="91118 mountain back shutterstock_316839815760x1273.jpg" crc="21986052" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="102918 facebook shutterstock_278925056.jpg" crc="390461285" seo="true" ref="phone>privacy:privacy">
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="privacy" alt=""/>
+    </file>
+    <file name="111318 live life free press release190x247.jpg" crc="3767794593" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="102918 press kit cover191x248.jpg" crc="520357343" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="7-25-201638-30th-anniversary-crop-u11222.jpg" crc="3859342" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="5-12-201834-charisma-april-2020-cover-crop-u11121.jpg" crc="248551926" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="10-19-200702 facebook media.jpg" crc="4131549092" seo="true" ref="phone>media:media">
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="8-08-201706 8 2 prayer renee432x230.jpg" crc="493761846" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="7-30-201629 july 15.jpg" crc="3873180215" seo="true" ref="phone>media:media">
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="pasted image 684x377122x67.jpg" crc="4265368990" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="pasted image 938x488129x67.jpg" crc="3972201812" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="12619 renee video lakewood img_7502-1--crop-u10490.jpg" crc="3977109977" seo="true" ref="phone>media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="12319 fernandez.jpg" crc="3790925650" seo="true" ref="phone>media:media">
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="12319 charisma network copy.jpg" crc="21060277" seo="true" ref="phone>media:media">
+      <caption webpage="media" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="4067594552" ref="index"/>
+    <file name="11719 winplay available-layer 4.png" crc="417170768" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11719 winplay available.png" crc="306973256" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="112018b available now at amazon-brown one.png" crc="339736027" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="112018b available now at amazon-red one.png" crc="4000711738" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="112018b available now at amazon-blue use.png" crc="102280478" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="102818 new footer image test static-crop-u7361.png" crc="464944629" seo="true" ref="index:speaker:privacy:store:media:returns-and-refunds">
+      <caption webpage="index" alt="Mountain Top Ministries"/>
+      <caption webpage="store" alt="Mountain Top Ministries"/>
+      <caption webpage="returns-and-refunds" alt="Mountain Top Ministries"/>
+      <caption webpage="privacy" alt="Mountain Top Ministries"/>
+      <caption webpage="speaker" alt="Mountain Top Ministries"/>
+      <caption webpage="media" alt="Mountain Top Ministries"/>
+    </file>
+    <file name="102218c cut renee book panarama copy.png" crc="316046648" seo="true" ref="index">
+      <caption webpage="index" alt="Images of Renée Branson, Live Life Free!"/>
+    </file>
+    <file name="90318 mtm straight.png" crc="4036660743" seo="true" ref="index">
+      <caption webpage="index" alt="Mountain Top Ministries"/>
+      <caption webpage="index" alt="Mountain Top Ministries"/>
+    </file>
+    <file name="91918 mountain boy shutterstock_111326774.jpg" crc="109312704" seo="true" ref="index">
+      <caption webpage="index" alt="man looking across mountain"/>
+    </file>
+    <file name="111318 endorsement 1.jpg" crc="421987518" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 2.jpg" crc="188080769" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 3.jpg" crc="342111498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 4.jpg" crc="394213172" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 5.jpg" crc="3907481992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 6.jpg" crc="11279881" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 7.jpg" crc="259620037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 8.jpg" crc="4278071951" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 9.jpg" crc="4256864190" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 10.jpg" crc="111419315" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="111318 endorsement 11.jpg" crc="4288935630" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="80318a live life free author-1--1-.png" crc="4221048212" seo="true" ref="index">
+      <caption webpage="index" alt="Renéee Branson auhor"/>
+    </file>
+    <file name="102818 91918 91018 1600x comp 1-u7557-fr.png" crc="3873044328" ref="index"/>
+    <file name="91118 mountain back shutterstock_316839815.jpg" crc="3880476458" ref="index:speaker:privacy:store:media:returns-and-refunds">
+      <caption webpage="index" alt=""/>
+      <caption webpage="store" alt=""/>
+      <caption webpage="returns-and-refunds" alt=""/>
+      <caption webpage="privacy" alt=""/>
+      <caption webpage="speaker" alt=""/>
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="111318 live life free press release.jpg" crc="3780087338" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="102918 press kit cover.jpg" crc="515126029" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="7-25-201638-30th-anniversary-crop-u11146.jpg" crc="3859342" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="5-12-201834-charisma-april-2020-cover-crop-u11106.jpg" crc="248551926" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="8-08-201706 8 2 prayer renee.jpg" crc="454380963" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="pasted image 684x377.jpg" crc="3948950253" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="pasted image 938x488.jpg" crc="4113585802" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+    <file name="12619 renee video lakewood img_7502-1--crop-u10432.jpg" crc="473636465" seo="true" ref="media">
+      <caption webpage="media" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3796087755" ref="phone>store:phone>speaker:phone>media:phone>privacy:phone>returns-and-refunds:phone>index"/>
+      <file name="store.css" crc="4207514412" ref="phone>store"/>
+      <file name="speaker.css" crc="432032965" ref="phone>speaker"/>
+      <file name="media.css" crc="476660575" ref="phone>media"/>
+      <file name="privacy.css" crc="433498344" ref="phone>privacy"/>
+      <file name="returns-and-refunds.css" crc="4279468366" ref="phone>returns-and-refunds"/>
+      <file name="index.css" crc="3795088343" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4277831490" seo="true" mt="1610030102630" redirect="true"/>
+    <file name="speaker.html" crc="4199329031" seo="true" mt="1610027353203" redirect="true"/>
+    <file name="privacy.html" crc="529712443" seo="true" mt="1610027353203" redirect="true"/>
+    <file name="store.html" crc="153096498" seo="true" mt="1610030193217" redirect="true"/>
+    <file name="media.html" crc="367320158" seo="true" mt="1610027353203" redirect="true"/>
+    <file name="returns-and-refunds.html" crc="4260359454" seo="true" mt="1610027353203" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4030059083" seo="true" mt="1610030059805" redirect="true"/>
+  <file name="speaker.html" crc="3972206435" seo="true" mt="1610027338260" redirect="true"/>
+  <file name="privacy.html" crc="3865695249" seo="true" mt="1610027338260" redirect="true"/>
+  <file name="store.html" crc="433211812" seo="true" mt="1610030137747" redirect="true"/>
+  <file name="media.html" crc="4131324673" seo="true" mt="1610027338260" redirect="true"/>
+  <file name="returns-and-refunds.html" crc="4146573795" seo="true" mt="1610027338260" redirect="true"/>
+</manifest>
